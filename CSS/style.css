@@ -1,5 +1,5 @@
-/* :root {
-    --tg-theme-bg-color: #212d3b;
+:root {
+    /* --tg-theme-bg-color: #212d3b;
     --tg-theme-section-bg-color: #1d2733;
     --tg-theme-secondary-bg-color: #151e27;
     --tg-theme-text-color: #ffffff;
@@ -13,10 +13,10 @@
     --tg-theme-subtitle-text-color: #7b8790;
     --tg-theme-destructive-text-color: #ee686f;
     --tg-theme-section-separator-color: #0d1218;
-    --tg-theme-bottom-bar-bg-color: #151e27;
+    --tg-theme-bottom-bar-bg-color: #151e27; */
 
     --otstup: 20px;
-} */
+}
 
 html { scrollbar-width: none; } 
 body { -ms-overflow-style: none; }

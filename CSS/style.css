@@ -1,4 +1,4 @@
-:root {
+/* :root {
     --tg-theme-bg-color: #212d3b;
     --tg-theme-section-bg-color: #1d2733;
     --tg-theme-secondary-bg-color: #151e27;
@@ -16,7 +16,7 @@
     --tg-theme-bottom-bar-bg-color: #151e27;
 
     --otstup: 20px;
-}
+} */
 
 html { scrollbar-width: none; } 
 body { -ms-overflow-style: none; }

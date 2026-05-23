@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" viewBox="0 0 512 512" version="1.1" inkscape:export-xdpi="96" inkscape:export-ydpi="96" style="fill: none; stroke: none">
+   <g inkscape:groupmode="layer" id="surface9297" inkscape:label="surface9297" transform="matrix(1.3333000000000002, 0.0, 0.0, 1.3333000000000002, 0.0, 0.0)">
+      <g id="g_1" inkscape:label="surface9297" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+         <g id="g_2" transform="matrix(0.75, 0.0, 0.0, 0.75, 0.0, 0.0)" style="stroke:rgb(255, 255, 255);stroke-opacity:1.0;stroke-width:30.72;stroke-miterlimit:4.0;stroke-linecap:round;stroke-linejoin:round">
+            <path d="M 296.87,386.16 C 296.87,386.16 417.48,273.45 417.48,273.45 C 426.05,265.44 426.16,251.88 417.72,243.74 C 417.72,243.74 296.69,126.99 296.69,126.99 C 286.94,117.58 270.67,124.50000000000001 270.67,138.05 C 270.67,138.05 270.67,197.59 270.67,197.59 C 195.51000000000002,197.59 117.24,264.85 83.94,372.74 C 79.38,387.52 97.6,396.52000000000004 108.63,385.67 C 177.99,317.41 222.28000000000003,315.99 271.6,315.99 C 271.6,315.99 271.03,374.79 271.03,374.79 C 270.89,388.3 287.0,395.38000000000005 296.87,386.16 C 296.87,386.16 296.87,386.16 296.87,386.16 Z"/>
+         </g>
+      </g>
+   </g>
+</svg>
